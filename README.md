@@ -1,1 +1,1 @@
-All of these files can be used for automated auditing scripts in the cyberpatriot training and competition rounds. If it is a .ps1 file, you can use it on Windows 11 or Server. If you're on linux, use the .sh files, they're compatible for bash.
+All of these files can be used for automated auditing scripts in the cyberpatriot training and competition rounds. If it is a .ps1 file, you can use it on Windows 11 or Server. If you're on linux, use the .sh files, they're compatible for bash. Please feel free to add any suggestions for scripts and uses.
